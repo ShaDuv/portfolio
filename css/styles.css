@@ -1,5 +1,13 @@
 .meimages {
   width: 50%;
   float: left;
-  
+
+}
+
+.panel-title {
+  text-align: center;
+}
+
+#icon {
+  width: 20%
 }
