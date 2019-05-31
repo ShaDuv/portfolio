@@ -26,3 +26,8 @@
   float:left;
   width: 50%
 }
+.jobtitle {
+  font-weight: bold;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
