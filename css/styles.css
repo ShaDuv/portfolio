@@ -8,6 +8,21 @@
   text-align: center;
 }
 
-#icon {
+.icon {
   width: 20%
+}
+
+.quote {
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  background-color: darkgray;
+  color: white;
+  padding-top: 10px;
+
+}
+
+.skills {
+  float:left;
+  width: 50%
 }
