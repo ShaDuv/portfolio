@@ -1,5 +1,5 @@
 .meimages {
-  width: 50%;
+  width: 100%;
   float: left;
 
 }
@@ -24,7 +24,8 @@
 
 .skills {
   float:left;
-  width: 50%
+  width: 50%;
+  padding-right: 5px;
 }
 .jobtitle {
   font-weight: bold;
