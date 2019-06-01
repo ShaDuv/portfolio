@@ -1,17 +1,25 @@
+/* Gray #CCCCCC Blue #003366 White #FFFFFF Green #CCCC99 */
+/* font-family: 'Cinzel', serif;
+font-family: 'Raleway', sans-serif; */
+
 .meimages {
   width: 100%;
   float: left;
 
 }
-
-.panel-title {
+/* .panel-title {
   text-align: center;
+    background-color: #003366;
+    padding: 10px;
+    color: #CCCC99
 }
-
+.panel {
+  border: 3px'
+  border-color: #CCCC99;
+} */
 .icon {
   width: 20%
 }
-
 .quote {
   text-align: center;
   font-style: italic;
@@ -21,7 +29,6 @@
   padding-top: 10px;
 
 }
-
 .skills {
   float:left;
   width: 50%;
@@ -32,7 +39,31 @@
   text-decoration: underline;
   text-transform: uppercase;
 }
-
 .row {
   margin-top: 20px;
+}
+
+.h1 {
+  font-family: 'Cinzel', serif;
+  font-size:6vw;
+}
+
+.body {
+  font-family: 'Raleway', sans-serif !important;
+}
+
+.jumbotron {
+  background-image: url("../img/256.jpg");
+      margin-bottom: 0;`enter code here`
+      min-height: 50%;
+      background-repeat: no-repeat;
+      background-position: center;
+      -webkit-background-size: cover;
+      background-size: cover;
+      color: #FFFFFF
+}
+
+h2 {
+  font-family: 'Cinzel', serif;
+  color: #003366
 }
