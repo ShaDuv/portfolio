@@ -1,4 +1,9 @@
-/* Gray #CCCCCC Blue #003366 White #FFFFFF Green #CCCC99 */
+/* Steel Blue #3998B6
+Indian Red #C46444
+Gray #8E8A7A
+Dark Slate Blue #2A4B76
+Dark Khaki #BF9167 */
+
 /* font-family: 'Cinzel', serif;
 font-family: 'Raleway', sans-serif; */
 
@@ -17,6 +22,19 @@ font-family: 'Raleway', sans-serif; */
   border: 3px'
   border-color: #CCCC99;
 } */
+h1 {
+  font-family: "Cinzel", serif;
+  font-size:5vw;
+}
+
+h2 {
+  font-family: "Cinzel", serif;
+  color: ##2A4B76;
+  font-size:3vw;
+}
+body {
+  font-family: "Raleway", sans-serif
+}
 .icon {
   width: 20%
 }
@@ -24,10 +42,8 @@ font-family: 'Raleway', sans-serif; */
   text-align: center;
   font-style: italic;
   font-weight: bold;
-  background-color: darkgray;
   color: white;
   padding-top: 10px;
-
 }
 .skills {
   float:left;
@@ -42,28 +58,35 @@ font-family: 'Raleway', sans-serif; */
 .row {
   margin-top: 20px;
 }
-
-.h1 {
-  font-family: 'Cinzel', serif;
-  font-size:6vw;
+.logo {
+  width: 100%;
+}
+/* .jumbotron {
+  background-image: url("../img/logo.jpg");
+    margin-bottom: 0;`enter code here`
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    color: #FFFFFF */
 }
 
-.body {
-  font-family: 'Raleway', sans-serif !important;
-}
-
-.jumbotron {
-  background-image: url("../img/256.jpg");
+.quotebar {
+  background-image: url("../img/259.jpg");
       margin-bottom: 0;`enter code here`
       min-height: 50%;
       background-repeat: no-repeat;
       background-position: center;
       -webkit-background-size: cover;
       background-size: cover;
-      color: #FFFFFF
+
+      padding-top: 10px;
+      padding-bottom: 10px;
 }
 
-h2 {
-  font-family: 'Cinzel', serif;
-  color: #003366
+.quotetext {
+  color: #FFFFFF;
+}
+.about-me {
+
 }

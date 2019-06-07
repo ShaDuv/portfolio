@@ -6,7 +6,8 @@
 
 ## Description
 
-_This is an HTML project page. Its purpose is to practice HTML, CSS, and Bootstrap; resulting in a basic portfolio page._
+_This is an HTML project page. Its purpose is to practice HTML, CSS, and Bootstrap; resulting in a basic portfolio page.
+Located at ShaDuv.github.io/portfolio_
 
 ## Setup/Installation Requirements
 
